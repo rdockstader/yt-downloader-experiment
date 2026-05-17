@@ -1,6 +1,6 @@
 # yt-downloader
 
-A command-line YouTube video downloader that streams video data in chunks, keeping memory usage low regardless of file size.
+A command-line YouTube video downloader that streams video data in chunks, keeping memory usage low regardless of file size. This app is for expermiental purpose only, as well as downloading any content you personally own. I'm sure YouTube doesn't want you downloading any video willy nilly. That'd just be silly... 
 
 ## How it works
 
